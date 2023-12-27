@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Standards
-* [Sample API Style Guide]
+* [Sample API Style Guide](https://github.com/ariffmd-git/Portfolio/blob/main/Sample_Style_Guide.md)
 
 
 
