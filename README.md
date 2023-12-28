@@ -6,4 +6,4 @@
 
 
 ## APIs
-* Turvo API [Create User](https://app.turvo.com/lobby/documentation#operation/createUser)
+* [Turvo API - Create User](https://app.turvo.com/lobby/documentation#operation/createUser)
